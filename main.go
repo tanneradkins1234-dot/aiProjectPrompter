@@ -24,7 +24,7 @@ func main() {
 		fmt.Println("4. Python")
 		fmt.Println("5. C++")
 		fmt.Println("6. C#")
-		fmt.Println("7. quit")
+		fmt.Println("7. Quit")
 		fmt.Println("||--------------------||")
 		fmt.Println("Input a number: ")
 		menuInput, _ := reader.ReadString('\n')
